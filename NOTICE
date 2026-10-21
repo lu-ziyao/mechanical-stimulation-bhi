@@ -1,0 +1,2 @@
+The IPFM parameter calculation in src/bhi_ipfm.m is adapted from BHImodel,
+Copyright (C) 2019 Vincenzo Catrambone and Gaetano Valenza.
